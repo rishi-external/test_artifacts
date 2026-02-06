@@ -1,0 +1,29 @@
+{
+  "libqcom-example" : {
+    "version": "1.0.0-1",
+    "src_repo": "qualcomm-linux/qcom-example-package-source",
+    "src_repo_tag": "v1.0.0",
+    "src_repo_commit": "ab327d00cd5eb80568cbec0488e0002bc833743b",
+    "pkg_repo": "qualcomm-linux/pkg-example",
+    "pkg_repo_tag": "debian/1.0.0-1",
+    "pkg_repo_commit": "748e2dc06f3ef1b5d0c860d1dc0ed5f300c8ca2c",
+    "pkg_repo_upstream_tag": "upstream/1.0.0",
+    "packages": ["libqcom-example1"],
+    "dev-packages": ["libqcom-example-dev"],
+    "build_timestamp": "2026-01-12T22:15:50Z"
+  },
+  
+  "fastrpc-pkg" : {
+    "version": "1.0.0-1",
+    "src_repo": "qualcomm-linux/fastrpc-package-source",
+    "src_repo_tag": "v1.0.0",
+    "src_repo_commit": "ab327d00cd5eb80568cbec0488e0002bc833743b",
+    "pkg_repo": "qualcomm-linux/pkg-fastrpc",
+    "pkg_repo_tag": "debian/1.0.0-1",
+    "pkg_repo_commit": "748e2dc06f3ef1b5d0c860d1dc0ed5f300c8ca2c",
+    "pkg_repo_upstream_tag": "upstream/1.0.0",
+    "packages": ["libqcom-fastrpc"],
+    "dev-packages": ["libqcom-fastrpc-dev"],
+    "build_timestamp": "2026-01-12T22:15:50Z"
+  }
+}
