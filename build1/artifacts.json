@@ -22,6 +22,7 @@
     "src_repo_commit": "ab327d00cd5eb80568cbec0488e0002bc833743b",
     "pkg_repo": "qualcomm-linux/pkg-fastrpc",
     "pkg_repo_tag": "debian/1.0.0-1",
+    
     "pkg_repo_commit": "748e2dc06f3ef1b5d0c860d1dc0ed5f300c8ca2c",
     "pkg_repo_upstream_tag": "upstream/1.0.0",
     "packages": ["libqcom-fastrpc"],
